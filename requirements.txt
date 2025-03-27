@@ -1,0 +1,6 @@
+numpy
+pandas
+matplotlib
+streamlit
+Bash
+pygame == 2.6.1
